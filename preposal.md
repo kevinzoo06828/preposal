@@ -9,5 +9,4 @@ I am not planning to collaborate with any of my classmates
 TODO
 
 ## Do you have any questions of your own?
-No
-TODO
+No, not at the moment
